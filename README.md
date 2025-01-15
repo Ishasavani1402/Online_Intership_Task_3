@@ -26,4 +26,4 @@ My Approach:
 -> for chatserver.java file create serversocket object for specified client port. 
 -> create thread for reading data from client
 
-output of task 
+output of task : https://github.com/Ishasavani1402/Online_Intership_Task_1/issues/2
