@@ -1,5 +1,5 @@
 # Online_Intership_Task_3
-#Java Program for file handling_________
+#Java Program for client server interaction_________
 
 company : CODRTECH IT SOLUTIONS
 
